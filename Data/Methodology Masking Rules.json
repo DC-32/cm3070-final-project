@@ -1,0 +1,54 @@
+{
+  "replacement_token": "[METHOD]",
+  "patterns": {
+    "Experiment": [
+      "\\bcontrolled experiments?\\b",
+      "\\bexperimental evaluation\\b",
+      "\\bexperimental stud(?:y|ies)\\b",
+      "\\bquasi[- ]experimental\\b",
+      "\\bwe (?:conduct|conducted|perform|performed|run|ran) (?:an |a |a series of )?experiments?\\b",
+      "\\bexperiments? (?:were|are|was) (?:conducted|performed|run)\\b",
+      "\\bbenchmark experiments?\\b",
+      "\\bexperimental group\\b"
+    ],
+    "Case Study": [
+      "\\bthis case study\\b",
+      "\\bour case study\\b",
+      "\\bwe (?:present|conduct|conducted|report|describe|examine|investigate) (?:an? )?case study\\b",
+      "\\bcase study (?:examines|investigates|explores|evaluates|analyses|analyzes)\\b",
+      "\\bcase study (?:approach|method|design)\\b",
+      "\\ba case study\\b"
+    ],
+    "Survey": [
+      "\\bcross[- ]sectional survey\\b",
+      "\\bquestionnaire[- ]based survey\\b",
+      "\\bquestionnaire survey\\b",
+      "\\bonline survey\\b",
+      "\\bsurvey (?:study|design|research)\\b",
+      "\\bwe (?:conduct|conducted|administer|administered) (?:an |a )?(?:online )?survey\\b",
+      "\\ba survey (?:was|is) conducted\\b",
+      "\\bsurveyed \\d+ (?:participants|respondents|users|developers|students|professionals)\\b"
+    ],
+    "Systematic Literature Review": [
+      "\\bsystematic literature review\\b",
+      "\\bsystematic review\\b",
+      "\\bsystematic mapping (?:study|review)\\b",
+      "\\bsystematic mapping\\b"
+    ],
+    "Design Science Research": [
+      "\\bdesign science research\\b",
+      "\\bdesign science methodology\\b",
+      "\\bdesign science approach\\b",
+      "\\bdesign science method\\b"
+    ],
+    "Mixed Methods": [
+      "\\bmixed[- ]methods? (?:study|research|approach|design|methodology)\\b",
+      "\\bmixed[- ]methodology\\b",
+      "\\busing (?:a )?mixed[- ]methods?\\b",
+      "\\bemploy(?:s|ed|ing)? (?:a )?mixed[- ]methods?\\b",
+      "\\bsequential explanatory mixed[- ]methods?\\b",
+      "\\bconvergent mixed[- ]methods?\\b"
+    ]
+  },
+  "pattern_count": 36
+}

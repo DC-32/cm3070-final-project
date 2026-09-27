@@ -1,0 +1,61 @@
+paper_id,true_label,predicted_label,confidence,correct,model,target,split
+W4406665575,Artificial Intelligence,Artificial Intelligence,0.3165096938610077,True,SciBERT,Field,test
+W4412885905,Artificial Intelligence,Artificial Intelligence,0.8867765069007874,True,SciBERT,Field,test
+W4390738651,Artificial Intelligence,Artificial Intelligence,0.8895279765129089,True,SciBERT,Field,test
+W4393223465,Artificial Intelligence,Artificial Intelligence,0.6086010336875916,True,SciBERT,Field,test
+W4401462553,Artificial Intelligence,Theory and Formal Methods,0.4781090021133423,False,SciBERT,Field,test
+W4402916911,Artificial Intelligence,Theory and Formal Methods,0.5227148532867432,False,SciBERT,Field,test
+W4403677626,Artificial Intelligence,Artificial Intelligence,0.8981869220733643,True,SciBERT,Field,test
+W7125921183,Theory and Formal Methods,Theory and Formal Methods,0.9660643339157104,True,SciBERT,Field,test
+W4406011924,Theory and Formal Methods,Theory and Formal Methods,0.7242428660392761,True,SciBERT,Field,test
+W4410742724,Theory and Formal Methods,Theory and Formal Methods,0.9594370126724243,True,SciBERT,Field,test
+W4414570850,Theory and Formal Methods,Theory and Formal Methods,0.9592781066894531,True,SciBERT,Field,test
+W4415404240,Theory and Formal Methods,Theory and Formal Methods,0.9659343957901001,True,SciBERT,Field,test
+W4366446926,Theory and Formal Methods,Theory and Formal Methods,0.963047206401825,True,SciBERT,Field,test
+W4388699074,Theory and Formal Methods,Theory and Formal Methods,0.925628662109375,True,SciBERT,Field,test
+W3046419153,Theory and Formal Methods,Theory and Formal Methods,0.9680482745170593,True,SciBERT,Field,test
+W7201966770,Data and Information Management,Data and Information Management,0.8629981875419617,True,SciBERT,Field,test
+W4411523071,Data and Information Management,Data and Information Management,0.45901498198509216,True,SciBERT,Field,test
+W4311632479,Data and Information Management,Data and Information Management,0.7547605633735657,True,SciBERT,Field,test
+W3178707215,Data and Information Management,Data and Information Management,0.8540899157524109,True,SciBERT,Field,test
+W4250102228,Data and Information Management,Data and Information Management,0.5356367230415344,True,SciBERT,Field,test
+W3046483939,Data and Information Management,Data and Information Management,0.8128455877304077,True,SciBERT,Field,test
+W4240505658,Data and Information Management,Data and Information Management,0.783105194568634,True,SciBERT,Field,test
+W2907096202,Data and Information Management,Data and Information Management,0.6466731429100037,True,SciBERT,Field,test
+W4392980892,Web and Service Systems,Web and Service Systems,0.6919386982917786,True,SciBERT,Field,test
+W2473046120,Web and Service Systems,Web and Service Systems,0.5896695256233215,True,SciBERT,Field,test
+W2546579092,Web and Service Systems,Web and Service Systems,0.5928075313568115,True,SciBERT,Field,test
+W2557517573,Web and Service Systems,Web and Service Systems,0.7519781589508057,True,SciBERT,Field,test
+W2068260601,Web and Service Systems,Web and Service Systems,0.20443329215049744,True,SciBERT,Field,test
+W2018782968,Web and Service Systems,Web and Service Systems,0.7891613841056824,True,SciBERT,Field,test
+W2082723859,Web and Service Systems,Web and Service Systems,0.8121800422668457,True,SciBERT,Field,test
+W7134255082,Network Security,Network Security,0.8035265207290649,True,SciBERT,Field,test
+W7172512207,Network Security,Network Security,0.8620666265487671,True,SciBERT,Field,test
+W7197090939,Network Security,Network Security,0.8285548090934753,True,SciBERT,Field,test
+W4409000323,Network Security,Authentication and Access Control,0.8029611110687256,False,SciBERT,Field,test
+W4410504532,Network Security,Network Security,0.8696333765983582,True,SciBERT,Field,test
+W4394854590,Network Security,Network Security,0.873298168182373,True,SciBERT,Field,test
+W4404604265,Network Security,Network Security,0.8549098372459412,True,SciBERT,Field,test
+W4406265224,Network Security,Network Security,0.7502560615539551,True,SciBERT,Field,test
+W7167835719,Authentication and Access Control,Authentication and Access Control,0.8834657669067383,True,SciBERT,Field,test
+W4413755490,Authentication and Access Control,Authentication and Access Control,0.8889283537864685,True,SciBERT,Field,test
+W4416399432,Authentication and Access Control,Authentication and Access Control,0.8959038853645325,True,SciBERT,Field,test
+W7117124530,Authentication and Access Control,Authentication and Access Control,0.8924804925918579,True,SciBERT,Field,test
+W4401110581,Authentication and Access Control,Authentication and Access Control,0.8603975176811218,True,SciBERT,Field,test
+W4402811630,Authentication and Access Control,Authentication and Access Control,0.8483186960220337,True,SciBERT,Field,test
+W4360979184,Authentication and Access Control,Network Security,0.7042959928512573,False,SciBERT,Field,test
+W7143680818,Software Development Practices,Software Development Practices,0.9346877932548523,True,SciBERT,Field,test
+W7162652066,Software Development Practices,Software Development Practices,0.8874500393867493,True,SciBERT,Field,test
+W3196972978,Software Development Practices,Software Development Practices,0.923974871635437,True,SciBERT,Field,test
+W3087916273,Software Development Practices,Software Development Practices,0.9313455820083618,True,SciBERT,Field,test
+W2953566824,Software Development Practices,Software Development Practices,0.934596061706543,True,SciBERT,Field,test
+W2597695148,Software Development Practices,Data and Information Management,0.7280861139297485,False,SciBERT,Field,test
+W2086344001,Software Development Practices,Software Development Practices,0.8258585929870605,True,SciBERT,Field,test
+W1445916941,Software Development Practices,Software Development Practices,0.8034495711326599,True,SciBERT,Field,test
+W7164756880,Software Testing and Quality,Software Testing and Quality,0.8635414242744446,True,SciBERT,Field,test
+W4413192916,Software Testing and Quality,Software Testing and Quality,0.5869719982147217,True,SciBERT,Field,test
+W4372049071,Software Testing and Quality,Software Testing and Quality,0.8367396593093872,True,SciBERT,Field,test
+W4404389398,Software Testing and Quality,Software Testing and Quality,0.5561768412590027,True,SciBERT,Field,test
+W4296058025,Software Testing and Quality,Software Testing and Quality,0.5431698560714722,True,SciBERT,Field,test
+W3212565000,Software Testing and Quality,Network Security,0.39299386739730835,False,SciBERT,Field,test
+W3045021056,Software Testing and Quality,Software Testing and Quality,0.7625072598457336,True,SciBERT,Field,test

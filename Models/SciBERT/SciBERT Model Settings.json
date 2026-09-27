@@ -1,0 +1,11 @@
+{
+  "checkpoint": "allenai/scibert_scivocab_uncased",
+  "maximum_length": 320,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "field_batch_size": 4,
+  "methodology_batch_size": 8,
+  "random_state": 42,
+  "field_epochs": 3,
+  "methodology_epochs": 3
+}

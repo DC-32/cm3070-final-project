@@ -1,0 +1,61 @@
+paper_id,true_label,predicted_label,confidence,correct,model,target,split
+W4406665575,Artificial Intelligence,Software Development Practices,0.16545455232728598,False,Naive Bayes,Field,test
+W4412885905,Artificial Intelligence,Artificial Intelligence,0.3091551003347067,True,Naive Bayes,Field,test
+W4390738651,Artificial Intelligence,Artificial Intelligence,0.26468964809228424,True,Naive Bayes,Field,test
+W4393223465,Artificial Intelligence,Software Testing and Quality,0.17603762796037514,False,Naive Bayes,Field,test
+W4401462553,Artificial Intelligence,Theory and Formal Methods,0.1609836794100103,False,Naive Bayes,Field,test
+W4402916911,Artificial Intelligence,Theory and Formal Methods,0.17127590554324407,False,Naive Bayes,Field,test
+W4403677626,Artificial Intelligence,Artificial Intelligence,0.2703458105361937,True,Naive Bayes,Field,test
+W7125921183,Theory and Formal Methods,Theory and Formal Methods,0.2203559421264341,True,Naive Bayes,Field,test
+W4406011924,Theory and Formal Methods,Artificial Intelligence,0.14249066247187575,False,Naive Bayes,Field,test
+W4410742724,Theory and Formal Methods,Theory and Formal Methods,0.3577520025217909,True,Naive Bayes,Field,test
+W4414570850,Theory and Formal Methods,Theory and Formal Methods,0.1750493486385436,True,Naive Bayes,Field,test
+W4415404240,Theory and Formal Methods,Theory and Formal Methods,0.3938764018043628,True,Naive Bayes,Field,test
+W4366446926,Theory and Formal Methods,Theory and Formal Methods,0.20836232133941446,True,Naive Bayes,Field,test
+W4388699074,Theory and Formal Methods,Artificial Intelligence,0.18178910602924325,False,Naive Bayes,Field,test
+W3046419153,Theory and Formal Methods,Theory and Formal Methods,0.34653998889538506,True,Naive Bayes,Field,test
+W7201966770,Data and Information Management,Data and Information Management,0.17078513851405427,True,Naive Bayes,Field,test
+W4411523071,Data and Information Management,Software Testing and Quality,0.1749655716550609,False,Naive Bayes,Field,test
+W4311632479,Data and Information Management,Data and Information Management,0.17785301281217544,True,Naive Bayes,Field,test
+W3178707215,Data and Information Management,Data and Information Management,0.24576728327249595,True,Naive Bayes,Field,test
+W4250102228,Data and Information Management,Artificial Intelligence,0.1494592500209653,False,Naive Bayes,Field,test
+W3046483939,Data and Information Management,Data and Information Management,0.23122184238651178,True,Naive Bayes,Field,test
+W4240505658,Data and Information Management,Web and Service Systems,0.1640608822070102,False,Naive Bayes,Field,test
+W2907096202,Data and Information Management,Web and Service Systems,0.16423062117312506,False,Naive Bayes,Field,test
+W4392980892,Web and Service Systems,Data and Information Management,0.18602378340798195,False,Naive Bayes,Field,test
+W2473046120,Web and Service Systems,Artificial Intelligence,0.14786314045254256,False,Naive Bayes,Field,test
+W2546579092,Web and Service Systems,Artificial Intelligence,0.17367615362186967,False,Naive Bayes,Field,test
+W2557517573,Web and Service Systems,Web and Service Systems,0.2476186664319777,True,Naive Bayes,Field,test
+W2068260601,Web and Service Systems,Data and Information Management,0.15900602632834074,False,Naive Bayes,Field,test
+W2018782968,Web and Service Systems,Web and Service Systems,0.18555455650346092,True,Naive Bayes,Field,test
+W2082723859,Web and Service Systems,Web and Service Systems,0.23423425240741672,True,Naive Bayes,Field,test
+W7134255082,Network Security,Network Security,0.2442307418162742,True,Naive Bayes,Field,test
+W7172512207,Network Security,Network Security,0.3785298552319294,True,Naive Bayes,Field,test
+W7197090939,Network Security,Network Security,0.22449414400993134,True,Naive Bayes,Field,test
+W4409000323,Network Security,Authentication and Access Control,0.2924211385136677,False,Naive Bayes,Field,test
+W4410504532,Network Security,Network Security,0.35120776318559105,True,Naive Bayes,Field,test
+W4394854590,Network Security,Network Security,0.42053426305398506,True,Naive Bayes,Field,test
+W4404604265,Network Security,Network Security,0.37342844293355737,True,Naive Bayes,Field,test
+W4406265224,Network Security,Network Security,0.15475165448089698,True,Naive Bayes,Field,test
+W7167835719,Authentication and Access Control,Authentication and Access Control,0.2622904521477284,True,Naive Bayes,Field,test
+W4413755490,Authentication and Access Control,Authentication and Access Control,0.2258269648357121,True,Naive Bayes,Field,test
+W4416399432,Authentication and Access Control,Authentication and Access Control,0.25548890559553283,True,Naive Bayes,Field,test
+W7117124530,Authentication and Access Control,Authentication and Access Control,0.33708726116461835,True,Naive Bayes,Field,test
+W4401110581,Authentication and Access Control,Authentication and Access Control,0.3438472981589072,True,Naive Bayes,Field,test
+W4402811630,Authentication and Access Control,Authentication and Access Control,0.22662405624125073,True,Naive Bayes,Field,test
+W4360979184,Authentication and Access Control,Network Security,0.20059754151099368,False,Naive Bayes,Field,test
+W7143680818,Software Development Practices,Software Development Practices,0.37027602316656233,True,Naive Bayes,Field,test
+W7162652066,Software Development Practices,Software Development Practices,0.2170291610007974,True,Naive Bayes,Field,test
+W3196972978,Software Development Practices,Software Development Practices,0.2626432334348559,True,Naive Bayes,Field,test
+W3087916273,Software Development Practices,Software Development Practices,0.31540102501530565,True,Naive Bayes,Field,test
+W2953566824,Software Development Practices,Software Development Practices,0.333535103866463,True,Naive Bayes,Field,test
+W2597695148,Software Development Practices,Data and Information Management,0.20255758607333868,False,Naive Bayes,Field,test
+W2086344001,Software Development Practices,Web and Service Systems,0.16828344785573912,False,Naive Bayes,Field,test
+W1445916941,Software Development Practices,Data and Information Management,0.16899302201927296,False,Naive Bayes,Field,test
+W7164756880,Software Testing and Quality,Software Testing and Quality,0.25031520168952276,True,Naive Bayes,Field,test
+W4413192916,Software Testing and Quality,Software Testing and Quality,0.1858182868609308,True,Naive Bayes,Field,test
+W4372049071,Software Testing and Quality,Software Testing and Quality,0.2327836572542322,True,Naive Bayes,Field,test
+W4404389398,Software Testing and Quality,Network Security,0.16379352143695725,False,Naive Bayes,Field,test
+W4296058025,Software Testing and Quality,Software Testing and Quality,0.19336287912441794,True,Naive Bayes,Field,test
+W3212565000,Software Testing and Quality,Authentication and Access Control,0.17579789027759904,False,Naive Bayes,Field,test
+W3045021056,Software Testing and Quality,Software Testing and Quality,0.21644140405100548,True,Naive Bayes,Field,test

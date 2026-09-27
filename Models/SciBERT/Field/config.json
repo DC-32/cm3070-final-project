@@ -1,0 +1,49 @@
+{
+  "add_cross_attention": false,
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": null,
+  "classifier_dropout": null,
+  "dtype": "float32",
+  "eos_token_id": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "Artificial Intelligence",
+    "1": "Authentication and Access Control",
+    "2": "Data and Information Management",
+    "3": "Network Security",
+    "4": "Software Development Practices",
+    "5": "Software Testing and Quality",
+    "6": "Theory and Formal Methods",
+    "7": "Web and Service Systems"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "is_decoder": false,
+  "label2id": {
+    "Artificial Intelligence": 0,
+    "Authentication and Access Control": 1,
+    "Data and Information Management": 2,
+    "Network Security": 3,
+    "Software Development Practices": 4,
+    "Software Testing and Quality": 5,
+    "Theory and Formal Methods": 6,
+    "Web and Service Systems": 7
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "problem_type": "single_label_classification",
+  "tie_word_embeddings": true,
+  "transformers_version": "5.16.1",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 31090
+}

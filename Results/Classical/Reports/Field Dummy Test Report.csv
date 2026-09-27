@@ -1,0 +1,12 @@
+,precision,recall,f1-score,support
+Artificial Intelligence,0.11666666666666667,1.0,0.208955223880597,7.0
+Authentication and Access Control,0.0,0.0,0.0,7.0
+Data and Information Management,0.0,0.0,0.0,8.0
+Network Security,0.0,0.0,0.0,8.0
+Software Development Practices,0.0,0.0,0.0,8.0
+Software Testing and Quality,0.0,0.0,0.0,7.0
+Theory and Formal Methods,0.0,0.0,0.0,8.0
+Web and Service Systems,0.0,0.0,0.0,7.0
+accuracy,0.11666666666666667,0.11666666666666667,0.11666666666666667,0.11666666666666667
+macro avg,0.014583333333333334,0.125,0.026119402985074626,60.0
+weighted avg,0.01361111111111111,0.11666666666666667,0.02437810945273632,60.0

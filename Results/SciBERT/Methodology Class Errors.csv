@@ -1,0 +1,13 @@
+model,true_label,test_papers,errors,error_rate
+Logistic Regression,Case Study,11,4,0.36363636363636365
+Logistic Regression,Design Science Research,11,3,0.2727272727272727
+Logistic Regression,Experiment,12,2,0.16666666666666666
+Logistic Regression,Mixed Methods,11,2,0.18181818181818182
+Logistic Regression,Survey,12,6,0.5
+Logistic Regression,Systematic Literature Review,11,0,0.0
+SciBERT,Case Study,11,6,0.5454545454545454
+SciBERT,Design Science Research,11,3,0.2727272727272727
+SciBERT,Experiment,12,1,0.08333333333333333
+SciBERT,Mixed Methods,11,2,0.18181818181818182
+SciBERT,Survey,12,2,0.16666666666666666
+SciBERT,Systematic Literature Review,11,0,0.0

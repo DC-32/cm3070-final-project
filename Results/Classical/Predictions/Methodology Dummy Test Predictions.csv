@@ -1,0 +1,69 @@
+paper_id,true_label,predicted_label,confidence,correct,model,target,split
+W1967044255,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W4236532781,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W1965854491,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W2030164119,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W2560569679,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W2738083230,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W2891794946,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W2994330170,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W3013504025,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W3136959127,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W4378194664,Case Study,Case Study,1.0,True,Dummy,Methodology,test
+W2098684637,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W2560361416,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W2931621332,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W3040693899,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W3118627298,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W3126275073,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W3172054967,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W3187148894,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W4298147533,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W4387711869,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W4388821735,Design Science Research,Case Study,1.0,False,Dummy,Methodology,test
+W2136921053,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W2165924201,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W2111717655,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W1539919260,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W2049741169,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W2206982881,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W2768913804,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W2799774683,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W3035326127,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W4385801212,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W4403413382,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W4407746024,Experiment,Case Study,1.0,False,Dummy,Methodology,test
+W2532067267,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W3136084017,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W3202696120,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4221089269,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4310644028,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4384661411,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4394009716,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4396883965,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4399368432,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4404964089,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W4409369700,Mixed Methods,Case Study,1.0,False,Dummy,Methodology,test
+W2081642942,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W2522404509,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W2553395691,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W2606310092,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W2806311926,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W2944931152,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W2996979148,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W3127675217,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W3159040599,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W4285728415,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W4360618909,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W4376143628,Survey,Case Study,1.0,False,Dummy,Methodology,test
+W2440047951,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W2889140186,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W2896376638,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W3004454911,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W3083134365,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W3190639623,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W4210246416,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W4281912517,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W4295018402,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W4362731303,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test
+W4387331481,Systematic Literature Review,Case Study,1.0,False,Dummy,Methodology,test

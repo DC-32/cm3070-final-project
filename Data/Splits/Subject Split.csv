@@ -1,0 +1,401 @@
+paper_id,split,target_label
+W4412395141,train,Artificial Intelligence
+W4415097529,train,Artificial Intelligence
+W4415347842,validation,Artificial Intelligence
+W7124452164,train,Artificial Intelligence
+W7124918203,train,Artificial Intelligence
+W7147376340,train,Artificial Intelligence
+W7163150413,train,Artificial Intelligence
+W4406665575,test,Artificial Intelligence
+W4408933567,train,Artificial Intelligence
+W4409361171,train,Artificial Intelligence
+W4409368309,validation,Artificial Intelligence
+W4409481077,train,Artificial Intelligence
+W4410153220,train,Artificial Intelligence
+W4410582721,train,Artificial Intelligence
+W4410773567,validation,Artificial Intelligence
+W4411600108,train,Artificial Intelligence
+W4412468464,train,Artificial Intelligence
+W4412623262,train,Artificial Intelligence
+W4412885905,test,Artificial Intelligence
+W4414350331,train,Artificial Intelligence
+W4414860418,validation,Artificial Intelligence
+W4417330884,train,Artificial Intelligence
+W7117447421,validation,Artificial Intelligence
+W4390738651,test,Artificial Intelligence
+W4390969164,train,Artificial Intelligence
+W4391735967,train,Artificial Intelligence
+W4392664815,train,Artificial Intelligence
+W4393099135,train,Artificial Intelligence
+W4393223465,test,Artificial Intelligence
+W4396767126,train,Artificial Intelligence
+W4398186376,train,Artificial Intelligence
+W4399401078,train,Artificial Intelligence
+W4400410091,train,Artificial Intelligence
+W4401416192,train,Artificial Intelligence
+W4401416688,train,Artificial Intelligence
+W4401462553,test,Artificial Intelligence
+W4401689351,train,Artificial Intelligence
+W4402916635,train,Artificial Intelligence
+W4402916911,test,Artificial Intelligence
+W4403277608,train,Artificial Intelligence
+W4403677626,test,Artificial Intelligence
+W4404294040,train,Artificial Intelligence
+W4404759898,validation,Artificial Intelligence
+W4406612348,validation,Artificial Intelligence
+W4406892168,train,Artificial Intelligence
+W4407951982,train,Artificial Intelligence
+W2610927166,train,Artificial Intelligence
+W2894000541,train,Artificial Intelligence
+W4318159260,train,Artificial Intelligence
+W4365444201,validation,Artificial Intelligence
+W4380633549,train,Theory and Formal Methods
+W4417355688,validation,Theory and Formal Methods
+W7125376364,validation,Theory and Formal Methods
+W7125921183,test,Theory and Formal Methods
+W7128033386,train,Theory and Formal Methods
+W7140526939,train,Theory and Formal Methods
+W4399198598,validation,Theory and Formal Methods
+W4406011924,test,Theory and Formal Methods
+W4406215708,train,Theory and Formal Methods
+W4406222355,train,Theory and Formal Methods
+W4406611937,train,Theory and Formal Methods
+W4406897558,train,Theory and Formal Methods
+W4407678156,train,Theory and Formal Methods
+W4408145339,validation,Theory and Formal Methods
+W4409344877,train,Theory and Formal Methods
+W4410742724,test,Theory and Formal Methods
+W4414158590,validation,Theory and Formal Methods
+W4414198022,train,Theory and Formal Methods
+W4414390572,train,Theory and Formal Methods
+W4414570850,test,Theory and Formal Methods
+W4415404240,test,Theory and Formal Methods
+W7105877165,train,Theory and Formal Methods
+W7105922373,train,Theory and Formal Methods
+W7115950697,train,Theory and Formal Methods
+W1597178621,train,Theory and Formal Methods
+W2981319226,train,Theory and Formal Methods
+W4390579172,train,Theory and Formal Methods
+W4392693745,train,Theory and Formal Methods
+W4393943451,train,Theory and Formal Methods
+W4396917302,train,Theory and Formal Methods
+W4401879838,train,Theory and Formal Methods
+W4403714374,train,Theory and Formal Methods
+W4407987962,validation,Theory and Formal Methods
+W7106017879,train,Theory and Formal Methods
+W3209865634,validation,Theory and Formal Methods
+W4366446926,test,Theory and Formal Methods
+W4384471509,train,Theory and Formal Methods
+W4385765082,train,Theory and Formal Methods
+W4387987001,train,Theory and Formal Methods
+W4388554541,train,Theory and Formal Methods
+W4388699074,test,Theory and Formal Methods
+W4389403307,train,Theory and Formal Methods
+W4389670243,train,Theory and Formal Methods
+W4391316597,train,Theory and Formal Methods
+W3046419153,test,Theory and Formal Methods
+W3167045648,train,Theory and Formal Methods
+W4290052184,train,Theory and Formal Methods
+W4296345302,train,Theory and Formal Methods
+W4310084452,train,Theory and Formal Methods
+W3010714455,train,Theory and Formal Methods
+W7128612597,train,Data and Information Management
+W7135026481,train,Data and Information Management
+W7159578308,train,Data and Information Management
+W7164851352,train,Data and Information Management
+W7201966770,test,Data and Information Management
+W4407242377,train,Data and Information Management
+W4411523071,test,Data and Information Management
+W4414358796,validation,Data and Information Management
+W4414956286,validation,Data and Information Management
+W4415272335,train,Data and Information Management
+W4415793532,train,Data and Information Management
+W7105897384,validation,Data and Information Management
+W4390970231,train,Data and Information Management
+W4391261131,train,Data and Information Management
+W4391612461,train,Data and Information Management
+W4392597266,train,Data and Information Management
+W4396838220,validation,Data and Information Management
+W4399045603,train,Data and Information Management
+W4400913542,train,Data and Information Management
+W4404739999,train,Data and Information Management
+W4410360618,train,Data and Information Management
+W4363649578,train,Data and Information Management
+W4386077575,train,Data and Information Management
+W4387316191,train,Data and Information Management
+W4391468459,train,Data and Information Management
+W4284710185,train,Data and Information Management
+W4297675818,train,Data and Information Management
+W4311632479,test,Data and Information Management
+W4312044905,train,Data and Information Management
+W3129095573,train,Data and Information Management
+W3158864025,train,Data and Information Management
+W3164678812,train,Data and Information Management
+W3178707215,test,Data and Information Management
+W3215818850,validation,Data and Information Management
+W4250102228,test,Data and Information Management
+W3008369869,train,Data and Information Management
+W4404014786,train,Data and Information Management
+W2145254562,train,Data and Information Management
+W2958800866,validation,Data and Information Management
+W2981930946,train,Data and Information Management
+W3046483939,test,Data and Information Management
+W4240505658,test,Data and Information Management
+W2788885658,train,Data and Information Management
+W2794245988,train,Data and Information Management
+W2799595819,train,Data and Information Management
+W2811259024,train,Data and Information Management
+W2888829190,train,Data and Information Management
+W2903954470,validation,Data and Information Management
+W2907096202,test,Data and Information Management
+W648574622,train,Data and Information Management
+W4410341120,train,Web and Service Systems
+W4415169162,train,Web and Service Systems
+W4392980892,test,Web and Service Systems
+W4386547712,train,Web and Service Systems
+W4390066556,train,Web and Service Systems
+W4391095546,train,Web and Service Systems
+W4210315170,train,Web and Service Systems
+W4385322565,train,Web and Service Systems
+W3208000219,train,Web and Service Systems
+W3211542739,train,Web and Service Systems
+W3001835240,train,Web and Service Systems
+W3085112882,train,Web and Service Systems
+W3176255446,train,Web and Service Systems
+W3008793649,train,Web and Service Systems
+W4213254987,train,Web and Service Systems
+W2885437697,train,Web and Service Systems
+W2889012288,train,Web and Service Systems
+W2891614139,validation,Web and Service Systems
+W2904349559,train,Web and Service Systems
+W2940477804,train,Web and Service Systems
+W2473046120,test,Web and Service Systems
+W2518429681,validation,Web and Service Systems
+W2546579092,test,Web and Service Systems
+W2557517573,test,Web and Service Systems
+W1547468572,validation,Web and Service Systems
+W1608134013,train,Web and Service Systems
+W1995465907,train,Web and Service Systems
+W2256240294,train,Web and Service Systems
+W2353490124,train,Web and Service Systems
+W2039989563,train,Web and Service Systems
+W2053234727,validation,Web and Service Systems
+W2068260601,test,Web and Service Systems
+W2383880416,validation,Web and Service Systems
+W2969705986,train,Web and Service Systems
+W2992532077,validation,Web and Service Systems
+W2002065907,train,Web and Service Systems
+W2005921148,train,Web and Service Systems
+W2027332424,train,Web and Service Systems
+W2081004015,train,Web and Service Systems
+W2103146554,train,Web and Service Systems
+W2123935904,train,Web and Service Systems
+W2059066300,train,Web and Service Systems
+W2366600736,validation,Web and Service Systems
+W2489363769,train,Web and Service Systems
+W1559705075,train,Web and Service Systems
+W1970459221,validation,Web and Service Systems
+W2008137442,train,Web and Service Systems
+W2018782968,test,Web and Service Systems
+W2064906075,train,Web and Service Systems
+W2082723859,test,Web and Service Systems
+W7132852267,train,Network Security
+W7134255082,test,Network Security
+W7163917090,train,Network Security
+W7171741155,train,Network Security
+W7172278324,train,Network Security
+W7172512207,test,Network Security
+W7197090939,test,Network Security
+W4406838235,train,Network Security
+W4407356066,train,Network Security
+W4407882299,train,Network Security
+W4407924591,train,Network Security
+W4408801558,train,Network Security
+W4409000323,test,Network Security
+W4409659687,train,Network Security
+W4410504532,test,Network Security
+W4412133622,train,Network Security
+W4412705861,train,Network Security
+W4412713347,train,Network Security
+W4412983652,train,Network Security
+W4413178458,validation,Network Security
+W4413455701,train,Network Security
+W4414211572,validation,Network Security
+W4414538702,train,Network Security
+W4414539033,train,Network Security
+W4415034365,train,Network Security
+W4416924147,train,Network Security
+W7105546518,train,Network Security
+W4392244599,validation,Network Security
+W4392903276,validation,Network Security
+W4394854590,test,Network Security
+W4394910753,train,Network Security
+W4399114261,validation,Network Security
+W4399206668,train,Network Security
+W4399882145,train,Network Security
+W4399931925,train,Network Security
+W4400050930,validation,Network Security
+W4401329246,train,Network Security
+W4402985834,train,Network Security
+W4404604265,test,Network Security
+W4405453343,train,Network Security
+W4405582816,train,Network Security
+W4406265224,test,Network Security
+W4406966091,validation,Network Security
+W4407466398,train,Network Security
+W4317790193,train,Network Security
+W4327980645,train,Network Security
+W4362509630,train,Network Security
+W4367047189,train,Network Security
+W4368275511,train,Network Security
+W4378418783,train,Network Security
+W7129041819,train,Authentication and Access Control
+W7139024945,validation,Authentication and Access Control
+W7139102143,train,Authentication and Access Control
+W7154327853,validation,Authentication and Access Control
+W7160257325,train,Authentication and Access Control
+W7162256422,validation,Authentication and Access Control
+W7167835719,test,Authentication and Access Control
+W4407972623,validation,Authentication and Access Control
+W4407991643,validation,Authentication and Access Control
+W4408090057,train,Authentication and Access Control
+W4408980984,train,Authentication and Access Control
+W4411796003,train,Authentication and Access Control
+W4412722309,train,Authentication and Access Control
+W4413755490,test,Authentication and Access Control
+W4414054336,train,Authentication and Access Control
+W4414221214,train,Authentication and Access Control
+W4416399432,test,Authentication and Access Control
+W7104032414,train,Authentication and Access Control
+W7104293853,train,Authentication and Access Control
+W7117124530,test,Authentication and Access Control
+W4390577968,train,Authentication and Access Control
+W4391428230,train,Authentication and Access Control
+W4392660410,train,Authentication and Access Control
+W4396912287,train,Authentication and Access Control
+W4400071599,train,Authentication and Access Control
+W4401110581,test,Authentication and Access Control
+W4402771902,train,Authentication and Access Control
+W4402811630,test,Authentication and Access Control
+W4407690688,train,Authentication and Access Control
+W4407787876,train,Authentication and Access Control
+W4408793921,train,Authentication and Access Control
+W4313596229,train,Authentication and Access Control
+W4318464971,train,Authentication and Access Control
+W4328007161,train,Authentication and Access Control
+W4360979184,test,Authentication and Access Control
+W4385415956,validation,Authentication and Access Control
+W4385819871,train,Authentication and Access Control
+W4386294213,train,Authentication and Access Control
+W4387258945,train,Authentication and Access Control
+W4387623735,train,Authentication and Access Control
+W4388720304,train,Authentication and Access Control
+W4389147990,train,Authentication and Access Control
+W4389222070,train,Authentication and Access Control
+W4389339225,validation,Authentication and Access Control
+W4391306104,train,Authentication and Access Control
+W4391366465,train,Authentication and Access Control
+W4391697677,train,Authentication and Access Control
+W4393028218,validation,Authentication and Access Control
+W4394864430,train,Authentication and Access Control
+W4220697831,train,Authentication and Access Control
+W7124427755,validation,Software Development Practices
+W7143680818,test,Software Development Practices
+W7162652066,test,Software Development Practices
+W4413074065,train,Software Development Practices
+W4415166422,train,Software Development Practices
+W4392726824,train,Software Development Practices
+W4396908250,train,Software Development Practices
+W4398138451,train,Software Development Practices
+W4401021419,train,Software Development Practices
+W4404512002,train,Software Development Practices
+W4405581911,train,Software Development Practices
+W4388937107,train,Software Development Practices
+W4220862576,train,Software Development Practices
+W4312753855,train,Software Development Practices
+W3145689822,train,Software Development Practices
+W3153366001,train,Software Development Practices
+W3196972978,test,Software Development Practices
+W3199091976,train,Software Development Practices
+W3203412515,validation,Software Development Practices
+W2586296091,train,Software Development Practices
+W3041741536,train,Software Development Practices
+W3046527735,train,Software Development Practices
+W3087916273,test,Software Development Practices
+W3099612350,train,Software Development Practices
+W3128817531,train,Software Development Practices
+W3134822843,validation,Software Development Practices
+W3156273984,train,Software Development Practices
+W2953566824,test,Software Development Practices
+W2970996227,train,Software Development Practices
+W2990891400,train,Software Development Practices
+W2997977547,train,Software Development Practices
+W4406620228,validation,Software Development Practices
+W2909159328,validation,Software Development Practices
+W2922223433,train,Software Development Practices
+W3208490288,train,Software Development Practices
+W2593646910,train,Software Development Practices
+W2597695148,test,Software Development Practices
+W2607083835,train,Software Development Practices
+W3136648237,train,Software Development Practices
+W2290374555,train,Software Development Practices
+W2362255031,train,Software Development Practices
+W2431929545,train,Software Development Practices
+W2560038899,train,Software Development Practices
+W2942866646,train,Software Development Practices
+W2043336433,validation,Software Development Practices
+W2086344001,test,Software Development Practices
+W2181594810,train,Software Development Practices
+W2344245390,validation,Software Development Practices
+W4302599815,train,Software Development Practices
+W1445916941,test,Software Development Practices
+W7164756880,test,Software Testing and Quality
+W7165020797,train,Software Testing and Quality
+W4407610305,train,Software Testing and Quality
+W4409805367,train,Software Testing and Quality
+W4410138091,train,Software Testing and Quality
+W4411552856,train,Software Testing and Quality
+W4413192916,test,Software Testing and Quality
+W4414276359,train,Software Testing and Quality
+W4416667295,train,Software Testing and Quality
+W4392910073,train,Software Testing and Quality
+W4393864486,validation,Software Testing and Quality
+W4398239318,train,Software Testing and Quality
+W4399491517,train,Software Testing and Quality
+W4400153951,train,Software Testing and Quality
+W4400583100,train,Software Testing and Quality
+W4400651912,train,Software Testing and Quality
+W4402391002,train,Software Testing and Quality
+W4403427009,validation,Software Testing and Quality
+W4405104239,train,Software Testing and Quality
+W4405307955,train,Software Testing and Quality
+W4407951516,train,Software Testing and Quality
+W4319349996,train,Software Testing and Quality
+W4372049071,test,Software Testing and Quality
+W4378676782,train,Software Testing and Quality
+W4382491545,validation,Software Testing and Quality
+W4383898426,train,Software Testing and Quality
+W4383988775,train,Software Testing and Quality
+W4388483179,validation,Software Testing and Quality
+W4391937120,train,Software Testing and Quality
+W4404389398,test,Software Testing and Quality
+W3126923662,validation,Software Testing and Quality
+W4226403529,train,Software Testing and Quality
+W4282541642,validation,Software Testing and Quality
+W4285206604,train,Software Testing and Quality
+W4296058025,test,Software Testing and Quality
+W4312797249,train,Software Testing and Quality
+W3126709609,train,Software Testing and Quality
+W3161226389,train,Software Testing and Quality
+W3198059282,validation,Software Testing and Quality
+W3207636857,validation,Software Testing and Quality
+W3212565000,test,Software Testing and Quality
+W3214251189,train,Software Testing and Quality
+W4200181994,train,Software Testing and Quality
+W4210364736,train,Software Testing and Quality
+W4226293624,train,Software Testing and Quality
+W2157675331,train,Software Testing and Quality
+W3043002514,train,Software Testing and Quality
+W3045021056,test,Software Testing and Quality
+W3088056345,train,Software Testing and Quality
+W3089458004,train,Software Testing and Quality

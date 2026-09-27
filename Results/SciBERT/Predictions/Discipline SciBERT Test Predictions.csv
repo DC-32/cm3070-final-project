@@ -1,0 +1,61 @@
+paper_id,true_label,predicted_label,correct,model,target,split
+W4406665575,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4412885905,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4390738651,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4393223465,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4401462553,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4402916911,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4403677626,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W7125921183,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4406011924,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4410742724,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4414570850,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4415404240,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4366446926,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W4388699074,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W3046419153,Computer Science,Computer Science,True,SciBERT,Discipline,test
+W7201966770,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W4411523071,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W4311632479,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W3178707215,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W4250102228,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W3046483939,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W4240505658,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W2907096202,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W4392980892,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W2473046120,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W2546579092,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W2557517573,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W2068260601,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W2018782968,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W2082723859,Information Systems,Information Systems,True,SciBERT,Discipline,test
+W7134255082,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W7172512207,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W7197090939,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4409000323,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4410504532,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4394854590,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4404604265,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4406265224,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W7167835719,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4413755490,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4416399432,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W7117124530,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4401110581,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4402811630,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W4360979184,Cybersecurity,Cybersecurity,True,SciBERT,Discipline,test
+W7143680818,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W7162652066,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W3196972978,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W3087916273,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W2953566824,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W2597695148,Software Engineering,Information Systems,False,SciBERT,Discipline,test
+W2086344001,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W1445916941,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W7164756880,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W4413192916,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W4372049071,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W4404389398,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W4296058025,Software Engineering,Software Engineering,True,SciBERT,Discipline,test
+W3212565000,Software Engineering,Cybersecurity,False,SciBERT,Discipline,test
+W3045021056,Software Engineering,Software Engineering,True,SciBERT,Discipline,test

@@ -1,0 +1,61 @@
+paper_id,true_label,predicted_label,confidence,correct,model,target,split
+W4406665575,Artificial Intelligence,Artificial Intelligence,1.0,True,Dummy,Field,test
+W4412885905,Artificial Intelligence,Artificial Intelligence,1.0,True,Dummy,Field,test
+W4390738651,Artificial Intelligence,Artificial Intelligence,1.0,True,Dummy,Field,test
+W4393223465,Artificial Intelligence,Artificial Intelligence,1.0,True,Dummy,Field,test
+W4401462553,Artificial Intelligence,Artificial Intelligence,1.0,True,Dummy,Field,test
+W4402916911,Artificial Intelligence,Artificial Intelligence,1.0,True,Dummy,Field,test
+W4403677626,Artificial Intelligence,Artificial Intelligence,1.0,True,Dummy,Field,test
+W7125921183,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4406011924,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4410742724,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4414570850,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4415404240,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4366446926,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4388699074,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W3046419153,Theory and Formal Methods,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7201966770,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4411523071,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4311632479,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W3178707215,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4250102228,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W3046483939,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4240505658,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2907096202,Data and Information Management,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4392980892,Web and Service Systems,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2473046120,Web and Service Systems,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2546579092,Web and Service Systems,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2557517573,Web and Service Systems,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2068260601,Web and Service Systems,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2018782968,Web and Service Systems,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2082723859,Web and Service Systems,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7134255082,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7172512207,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7197090939,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4409000323,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4410504532,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4394854590,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4404604265,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4406265224,Network Security,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7167835719,Authentication and Access Control,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4413755490,Authentication and Access Control,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4416399432,Authentication and Access Control,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7117124530,Authentication and Access Control,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4401110581,Authentication and Access Control,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4402811630,Authentication and Access Control,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4360979184,Authentication and Access Control,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7143680818,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7162652066,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W3196972978,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W3087916273,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2953566824,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2597695148,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W2086344001,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W1445916941,Software Development Practices,Artificial Intelligence,1.0,False,Dummy,Field,test
+W7164756880,Software Testing and Quality,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4413192916,Software Testing and Quality,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4372049071,Software Testing and Quality,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4404389398,Software Testing and Quality,Artificial Intelligence,1.0,False,Dummy,Field,test
+W4296058025,Software Testing and Quality,Artificial Intelligence,1.0,False,Dummy,Field,test
+W3212565000,Software Testing and Quality,Artificial Intelligence,1.0,False,Dummy,Field,test
+W3045021056,Software Testing and Quality,Artificial Intelligence,1.0,False,Dummy,Field,test

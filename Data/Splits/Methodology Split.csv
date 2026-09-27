@@ -1,0 +1,451 @@
+paper_id,split,target_label
+W1966024199,train,Case Study
+W1971459005,validation,Case Study
+W1992269574,validation,Case Study
+W2011297971,train,Case Study
+W2011459220,train,Case Study
+W2102884590,train,Case Study
+W2158817575,train,Case Study
+W1995481906,train,Case Study
+W2047103478,train,Case Study
+W2086877427,train,Case Study
+W2166446267,train,Case Study
+W1967044255,test,Case Study
+W2009443992,train,Case Study
+W2025405702,train,Case Study
+W2053431779,train,Case Study
+W2067005380,train,Case Study
+W2131092380,train,Case Study
+W2155805272,train,Case Study
+W1458935713,train,Case Study
+W1980429367,train,Case Study
+W2057128378,validation,Case Study
+W2086346901,validation,Case Study
+W2089758871,train,Case Study
+W2406734572,validation,Case Study
+W4236532781,test,Case Study
+W4247520462,train,Case Study
+W1965854491,test,Case Study
+W1975962315,train,Case Study
+W1982998540,train,Case Study
+W2030164119,test,Case Study
+W2030793160,train,Case Study
+W2032340251,train,Case Study
+W2040353241,validation,Case Study
+W1526214392,train,Case Study
+W2514376384,train,Case Study
+W4235172787,train,Case Study
+W2256661088,train,Case Study
+W2367359560,validation,Case Study
+W2379327898,train,Case Study
+W2476553276,train,Case Study
+W2505355438,train,Case Study
+W2508640174,validation,Case Study
+W2524534560,train,Case Study
+W2560569679,test,Case Study
+W2577413333,train,Case Study
+W2597152803,train,Case Study
+W2606662442,train,Case Study
+W2726007014,train,Case Study
+W2738083230,test,Case Study
+W2767506974,train,Case Study
+W2774862805,train,Case Study
+W2782020667,train,Case Study
+W2891794946,test,Case Study
+W2895547509,train,Case Study
+W2901437552,train,Case Study
+W2921438067,train,Case Study
+W2926933934,train,Case Study
+W2965851405,validation,Case Study
+W2970739680,train,Case Study
+W2994330170,test,Case Study
+W3013504025,test,Case Study
+W3044265704,train,Case Study
+W4231364799,train,Case Study
+W3136959127,test,Case Study
+W3175686886,train,Case Study
+W3178046771,train,Case Study
+W3207305765,train,Case Study
+W192321294,train,Case Study
+W4226340964,validation,Case Study
+W4293331136,train,Case Study
+W4378194664,test,Case Study
+W4383740435,train,Case Study
+W4384156431,train,Case Study
+W4385692409,validation,Case Study
+W4386251738,train,Case Study
+W2106046499,validation,Design Science Research
+W2162708835,train,Design Science Research
+W2168069066,train,Design Science Research
+W2051979997,train,Design Science Research
+W2098684637,test,Design Science Research
+W2120068731,train,Design Science Research
+W1861775357,train,Design Science Research
+W2158002629,validation,Design Science Research
+W2560361416,test,Design Science Research
+W2598193864,train,Design Science Research
+W2618181306,validation,Design Science Research
+W2729161046,train,Design Science Research
+W2769217938,train,Design Science Research
+W2890920884,train,Design Science Research
+W2904847771,validation,Design Science Research
+W2927981208,train,Design Science Research
+W2931621332,test,Design Science Research
+W2951587714,train,Design Science Research
+W2954926450,train,Design Science Research
+W2968037671,train,Design Science Research
+W2980194287,train,Design Science Research
+W2986722943,train,Design Science Research
+W2990091086,train,Design Science Research
+W2998159685,train,Design Science Research
+W3002158351,train,Design Science Research
+W3011376616,train,Design Science Research
+W3022475079,train,Design Science Research
+W3040693899,test,Design Science Research
+W3042273161,validation,Design Science Research
+W3049016432,train,Design Science Research
+W3082515532,train,Design Science Research
+W3089989052,train,Design Science Research
+W3094063221,validation,Design Science Research
+W3108758198,train,Design Science Research
+W3118627298,test,Design Science Research
+W3159011702,train,Design Science Research
+W3045506407,train,Design Science Research
+W3111951473,train,Design Science Research
+W3126275073,test,Design Science Research
+W3128662687,train,Design Science Research
+W3172054967,test,Design Science Research
+W3187148894,test,Design Science Research
+W3188864127,train,Design Science Research
+W4205746747,train,Design Science Research
+W4206666783,validation,Design Science Research
+W4210741421,train,Design Science Research
+W4213337814,train,Design Science Research
+W4280606346,train,Design Science Research
+W4282969646,train,Design Science Research
+W4285055158,train,Design Science Research
+W4298147533,test,Design Science Research
+W4311649135,train,Design Science Research
+W4312520805,train,Design Science Research
+W4392853305,train,Design Science Research
+W4317731379,train,Design Science Research
+W4383889994,train,Design Science Research
+W4386036087,train,Design Science Research
+W4387319009,train,Design Science Research
+W4387350483,train,Design Science Research
+W4387374799,validation,Design Science Research
+W4387711869,test,Design Science Research
+W4388447553,train,Design Science Research
+W4388821735,test,Design Science Research
+W4390922485,train,Design Science Research
+W4391382769,validation,Design Science Research
+W4392640402,train,Design Science Research
+W4394805579,validation,Design Science Research
+W4390933762,train,Design Science Research
+W4391147467,train,Design Science Research
+W4402463391,train,Design Science Research
+W4404353846,train,Design Science Research
+W4406048058,train,Design Science Research
+W4412460868,train,Design Science Research
+W4414588693,validation,Design Science Research
+W7156118776,train,Design Science Research
+W2136921053,test,Experiment
+W2137577228,train,Experiment
+W2165924201,test,Experiment
+W1981271663,train,Experiment
+W2109240502,train,Experiment
+W2111717655,test,Experiment
+W2153382815,train,Experiment
+W1539919260,test,Experiment
+W1996551380,validation,Experiment
+W2053877171,train,Experiment
+W2072651227,train,Experiment
+W2086355437,train,Experiment
+W2397699148,train,Experiment
+W4233107909,train,Experiment
+W1580459345,validation,Experiment
+W1968508125,train,Experiment
+W2029378040,train,Experiment
+W2039854894,train,Experiment
+W2047206966,train,Experiment
+W2053044043,train,Experiment
+W2054727682,train,Experiment
+W2077127398,train,Experiment
+W2027398997,train,Experiment
+W2049741169,test,Experiment
+W2169419362,train,Experiment
+W2182245270,train,Experiment
+W2206982881,test,Experiment
+W4233630514,validation,Experiment
+W2346331195,train,Experiment
+W2373585647,validation,Experiment
+W2481669388,train,Experiment
+W2508181318,train,Experiment
+W2563032765,validation,Experiment
+W2580548224,train,Experiment
+W2603308624,train,Experiment
+W2479000579,train,Experiment
+W2598692817,validation,Experiment
+W2604662567,train,Experiment
+W2768913804,test,Experiment
+W2769990580,train,Experiment
+W4251241168,train,Experiment
+W2799774683,test,Experiment
+W2800064293,train,Experiment
+W2901837143,validation,Experiment
+W2904790294,train,Experiment
+W2803847797,train,Experiment
+W2901988662,train,Experiment
+W2912135847,train,Experiment
+W3012399509,train,Experiment
+W3034267728,train,Experiment
+W3035326127,test,Experiment
+W3035669642,train,Experiment
+W3088722057,train,Experiment
+W3091602774,train,Experiment
+W3098502934,train,Experiment
+W3134613537,train,Experiment
+W4244955996,train,Experiment
+W3122151542,train,Experiment
+W3133635694,train,Experiment
+W3158802137,train,Experiment
+W3184084070,train,Experiment
+W4302576438,validation,Experiment
+W4306147307,train,Experiment
+W4306857329,train,Experiment
+W4317792906,train,Experiment
+W4315778357,train,Experiment
+W4382562047,validation,Experiment
+W4384158965,train,Experiment
+W4385301055,validation,Experiment
+W4385801212,test,Experiment
+W4392090022,train,Experiment
+W4403413382,test,Experiment
+W4404614448,train,Experiment
+W4407746024,test,Experiment
+W4411272417,validation,Experiment
+W2075430918,validation,Mixed Methods
+W2532067267,test,Mixed Methods
+W2590961610,train,Mixed Methods
+W2602275038,train,Mixed Methods
+W2765598583,train,Mixed Methods
+W2902324490,train,Mixed Methods
+W2903195636,validation,Mixed Methods
+W2949052773,train,Mixed Methods
+W2904555804,train,Mixed Methods
+W3014906611,train,Mixed Methods
+W3015060502,validation,Mixed Methods
+W3015790184,train,Mixed Methods
+W3035787915,train,Mixed Methods
+W2345526311,train,Mixed Methods
+W3120753872,train,Mixed Methods
+W3136084017,test,Mixed Methods
+W3160737098,train,Mixed Methods
+W3180412538,train,Mixed Methods
+W3202696120,test,Mixed Methods
+W4221089269,test,Mixed Methods
+W4225011935,train,Mixed Methods
+W4281482321,train,Mixed Methods
+W4293080803,validation,Mixed Methods
+W4294896354,train,Mixed Methods
+W4296162228,train,Mixed Methods
+W4310644028,test,Mixed Methods
+W4323914278,train,Mixed Methods
+W4321610092,train,Mixed Methods
+W4379191754,train,Mixed Methods
+W4384661411,test,Mixed Methods
+W4386421797,validation,Mixed Methods
+W4387471293,train,Mixed Methods
+W4388030773,validation,Mixed Methods
+W4389002590,train,Mixed Methods
+W4390317210,validation,Mixed Methods
+W4390430219,train,Mixed Methods
+W4393155891,train,Mixed Methods
+W4393247239,train,Mixed Methods
+W4394009716,test,Mixed Methods
+W4396883965,test,Mixed Methods
+W4397011503,train,Mixed Methods
+W4399368432,test,Mixed Methods
+W4399512772,train,Mixed Methods
+W4401873420,train,Mixed Methods
+W4402551708,train,Mixed Methods
+W4403674148,train,Mixed Methods
+W4404172588,train,Mixed Methods
+W4404756977,validation,Mixed Methods
+W4404964089,test,Mixed Methods
+W4405957059,validation,Mixed Methods
+W4406048064,train,Mixed Methods
+W4406608565,validation,Mixed Methods
+W4407810407,train,Mixed Methods
+W4408022114,train,Mixed Methods
+W4408901601,train,Mixed Methods
+W4409236920,train,Mixed Methods
+W4409369700,test,Mixed Methods
+W4410255892,train,Mixed Methods
+W4410562675,train,Mixed Methods
+W4411466629,train,Mixed Methods
+W4412116427,train,Mixed Methods
+W4412734327,train,Mixed Methods
+W4413221307,train,Mixed Methods
+W4413849445,train,Mixed Methods
+W4413851907,train,Mixed Methods
+W4413990122,train,Mixed Methods
+W4414213891,train,Mixed Methods
+W4414260515,train,Mixed Methods
+W4414606351,train,Mixed Methods
+W4414909717,train,Mixed Methods
+W4415704023,validation,Mixed Methods
+W4415714584,validation,Mixed Methods
+W7117573715,train,Mixed Methods
+W7162560986,train,Mixed Methods
+W7164000516,train,Mixed Methods
+W2060694330,train,Survey
+W2071745501,train,Survey
+W2540344817,train,Survey
+W2049315590,validation,Survey
+W2081642942,test,Survey
+W30981353,train,Survey
+W1605427656,train,Survey
+W1617701804,validation,Survey
+W2025561289,train,Survey
+W2166893095,train,Survey
+W112447328,train,Survey
+W2253283309,train,Survey
+W1174543792,train,Survey
+W2201522404,train,Survey
+W2333693388,train,Survey
+W2477891529,train,Survey
+W2522404509,test,Survey
+W2550188110,train,Survey
+W2553395691,test,Survey
+W2281434630,train,Survey
+W2606310092,test,Survey
+W2742736234,train,Survey
+W2755382679,train,Survey
+W2770797604,train,Survey
+W2773712458,train,Survey
+W2561217404,train,Survey
+W2806311926,test,Survey
+W2806313303,validation,Survey
+W2901598292,train,Survey
+W2910573347,validation,Survey
+W2917066117,train,Survey
+W2944692351,train,Survey
+W2944931152,test,Survey
+W2955542211,train,Survey
+W2964759459,validation,Survey
+W2981117281,train,Survey
+W2988410184,train,Survey
+W2996979148,test,Survey
+W3012811206,train,Survey
+W3015529431,train,Survey
+W3023038556,train,Survey
+W3034081847,train,Survey
+W3091854926,train,Survey
+W3096028464,validation,Survey
+W3113033734,train,Survey
+W3135019689,train,Survey
+W3137885733,train,Survey
+W3127675217,test,Survey
+W3159040599,test,Survey
+W3164133359,train,Survey
+W3174898577,validation,Survey
+W3180113882,train,Survey
+W4221100158,train,Survey
+W4285728415,test,Survey
+W4296895396,train,Survey
+W4306643917,train,Survey
+W4308119848,train,Survey
+W4313828870,train,Survey
+W4383000607,train,Survey
+W4313528594,validation,Survey
+W4360618909,test,Survey
+W4362721844,train,Survey
+W4367182202,train,Survey
+W4376143628,test,Survey
+W4379045450,train,Survey
+W4380568713,validation,Survey
+W4385226456,train,Survey
+W4385230573,train,Survey
+W4385626744,train,Survey
+W4387424872,validation,Survey
+W4390810663,train,Survey
+W4390839437,train,Survey
+W4400522145,train,Survey
+W4406263235,train,Survey
+W4409457779,validation,Survey
+W134948675,train,Systematic Literature Review
+W2058303331,train,Systematic Literature Review
+W2022683857,train,Systematic Literature Review
+W1980287314,train,Systematic Literature Review
+W1571483650,train,Systematic Literature Review
+W2363799590,train,Systematic Literature Review
+W2398354586,train,Systematic Literature Review
+W2440047951,test,Systematic Literature Review
+W2743243447,train,Systematic Literature Review
+W2769690594,train,Systematic Literature Review
+W2780930765,train,Systematic Literature Review
+W2791157908,train,Systematic Literature Review
+W2868191876,train,Systematic Literature Review
+W2889140186,test,Systematic Literature Review
+W2896376638,test,Systematic Literature Review
+W2945222541,validation,Systematic Literature Review
+W2947820919,train,Systematic Literature Review
+W2949006873,train,Systematic Literature Review
+W2959947950,train,Systematic Literature Review
+W2971209364,validation,Systematic Literature Review
+W3003714166,train,Systematic Literature Review
+W3004454911,test,Systematic Literature Review
+W3011765343,train,Systematic Literature Review
+W3081709553,train,Systematic Literature Review
+W3083134365,test,Systematic Literature Review
+W3119792886,train,Systematic Literature Review
+W3130735748,train,Systematic Literature Review
+W3131082002,train,Systematic Literature Review
+W3135315826,train,Systematic Literature Review
+W3145402715,train,Systematic Literature Review
+W3172362366,train,Systematic Literature Review
+W3190639623,test,Systematic Literature Review
+W3200506265,train,Systematic Literature Review
+W3200673721,train,Systematic Literature Review
+W3204452949,train,Systematic Literature Review
+W3206079648,validation,Systematic Literature Review
+W3213112478,train,Systematic Literature Review
+W3215859200,train,Systematic Literature Review
+W4200338505,train,Systematic Literature Review
+W3203841480,train,Systematic Literature Review
+W4206010938,train,Systematic Literature Review
+W4210246416,test,Systematic Literature Review
+W4211020381,train,Systematic Literature Review
+W4214836316,train,Systematic Literature Review
+W4220925261,validation,Systematic Literature Review
+W4280577403,train,Systematic Literature Review
+W4280619079,train,Systematic Literature Review
+W4281753173,train,Systematic Literature Review
+W4281912517,test,Systematic Literature Review
+W4292491372,train,Systematic Literature Review
+W4295018402,test,Systematic Literature Review
+W4313017734,validation,Systematic Literature Review
+W4313568913,train,Systematic Literature Review
+W4319777762,train,Systematic Literature Review
+W4323662854,train,Systematic Literature Review
+W4361206176,train,Systematic Literature Review
+W4361208106,train,Systematic Literature Review
+W4362731303,test,Systematic Literature Review
+W4377139746,validation,Systematic Literature Review
+W4379364448,validation,Systematic Literature Review
+W4383558024,validation,Systematic Literature Review
+W4383671701,train,Systematic Literature Review
+W4386177112,validation,Systematic Literature Review
+W4386370796,validation,Systematic Literature Review
+W4387331481,test,Systematic Literature Review
+W4387530796,validation,Systematic Literature Review
+W4388793607,train,Systematic Literature Review
+W4390191336,train,Systematic Literature Review
+W4391403421,train,Systematic Literature Review
+W4391940723,train,Systematic Literature Review
+W4391944556,train,Systematic Literature Review
+W4396508517,train,Systematic Literature Review
+W4396833595,train,Systematic Literature Review
+W4401027759,train,Systematic Literature Review
+W4406462137,train,Systematic Literature Review

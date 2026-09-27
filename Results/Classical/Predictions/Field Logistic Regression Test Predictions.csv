@@ -1,0 +1,61 @@
+paper_id,true_label,predicted_label,confidence,correct,model,target,split
+W4406665575,Artificial Intelligence,Data and Information Management,0.15149194276041775,False,Logistic Regression,Field,test
+W4412885905,Artificial Intelligence,Artificial Intelligence,0.29273507315490566,True,Logistic Regression,Field,test
+W4390738651,Artificial Intelligence,Artificial Intelligence,0.24866410838646438,True,Logistic Regression,Field,test
+W4393223465,Artificial Intelligence,Software Testing and Quality,0.16204403809751763,False,Logistic Regression,Field,test
+W4401462553,Artificial Intelligence,Theory and Formal Methods,0.15970739869459494,False,Logistic Regression,Field,test
+W4402916911,Artificial Intelligence,Theory and Formal Methods,0.16949024388435516,False,Logistic Regression,Field,test
+W4403677626,Artificial Intelligence,Artificial Intelligence,0.257260813529548,True,Logistic Regression,Field,test
+W7125921183,Theory and Formal Methods,Theory and Formal Methods,0.21020778634638232,True,Logistic Regression,Field,test
+W4406011924,Theory and Formal Methods,Theory and Formal Methods,0.1430057902324588,True,Logistic Regression,Field,test
+W4410742724,Theory and Formal Methods,Theory and Formal Methods,0.3250245259810847,True,Logistic Regression,Field,test
+W4414570850,Theory and Formal Methods,Theory and Formal Methods,0.1795773655407966,True,Logistic Regression,Field,test
+W4415404240,Theory and Formal Methods,Theory and Formal Methods,0.36306844309515973,True,Logistic Regression,Field,test
+W4366446926,Theory and Formal Methods,Theory and Formal Methods,0.20611095836636648,True,Logistic Regression,Field,test
+W4388699074,Theory and Formal Methods,Theory and Formal Methods,0.19194059695220075,True,Logistic Regression,Field,test
+W3046419153,Theory and Formal Methods,Theory and Formal Methods,0.3288344860658162,True,Logistic Regression,Field,test
+W7201966770,Data and Information Management,Data and Information Management,0.17385465577211273,True,Logistic Regression,Field,test
+W4411523071,Data and Information Management,Artificial Intelligence,0.16699334583818184,False,Logistic Regression,Field,test
+W4311632479,Data and Information Management,Data and Information Management,0.1799603814842211,True,Logistic Regression,Field,test
+W3178707215,Data and Information Management,Data and Information Management,0.2508082755567482,True,Logistic Regression,Field,test
+W4250102228,Data and Information Management,Artificial Intelligence,0.14538165567295835,False,Logistic Regression,Field,test
+W3046483939,Data and Information Management,Data and Information Management,0.24342176020211592,True,Logistic Regression,Field,test
+W4240505658,Data and Information Management,Web and Service Systems,0.1569671693472054,False,Logistic Regression,Field,test
+W2907096202,Data and Information Management,Web and Service Systems,0.15382149798576644,False,Logistic Regression,Field,test
+W4392980892,Web and Service Systems,Data and Information Management,0.1875284292977121,False,Logistic Regression,Field,test
+W2473046120,Web and Service Systems,Artificial Intelligence,0.1452960140805761,False,Logistic Regression,Field,test
+W2546579092,Web and Service Systems,Artificial Intelligence,0.1689533401316881,False,Logistic Regression,Field,test
+W2557517573,Web and Service Systems,Web and Service Systems,0.23436449886187866,True,Logistic Regression,Field,test
+W2068260601,Web and Service Systems,Data and Information Management,0.16511538794354613,False,Logistic Regression,Field,test
+W2018782968,Web and Service Systems,Web and Service Systems,0.18067283476760668,True,Logistic Regression,Field,test
+W2082723859,Web and Service Systems,Web and Service Systems,0.23777969352036793,True,Logistic Regression,Field,test
+W7134255082,Network Security,Network Security,0.22393247453153123,True,Logistic Regression,Field,test
+W7172512207,Network Security,Network Security,0.33151909824371467,True,Logistic Regression,Field,test
+W7197090939,Network Security,Network Security,0.22213436034054984,True,Logistic Regression,Field,test
+W4409000323,Network Security,Authentication and Access Control,0.27387744141646303,False,Logistic Regression,Field,test
+W4410504532,Network Security,Network Security,0.31772474592654587,True,Logistic Regression,Field,test
+W4394854590,Network Security,Network Security,0.3822752405003703,True,Logistic Regression,Field,test
+W4404604265,Network Security,Network Security,0.34369506963718943,True,Logistic Regression,Field,test
+W4406265224,Network Security,Network Security,0.15393608782564175,True,Logistic Regression,Field,test
+W7167835719,Authentication and Access Control,Authentication and Access Control,0.25306691079437293,True,Logistic Regression,Field,test
+W4413755490,Authentication and Access Control,Authentication and Access Control,0.2362417847645305,True,Logistic Regression,Field,test
+W4416399432,Authentication and Access Control,Authentication and Access Control,0.25764171625197513,True,Logistic Regression,Field,test
+W7117124530,Authentication and Access Control,Authentication and Access Control,0.3140525086871523,True,Logistic Regression,Field,test
+W4401110581,Authentication and Access Control,Authentication and Access Control,0.302948322928131,True,Logistic Regression,Field,test
+W4402811630,Authentication and Access Control,Authentication and Access Control,0.22238884046496063,True,Logistic Regression,Field,test
+W4360979184,Authentication and Access Control,Network Security,0.2003139907557733,False,Logistic Regression,Field,test
+W7143680818,Software Development Practices,Software Development Practices,0.37718066436885533,True,Logistic Regression,Field,test
+W7162652066,Software Development Practices,Software Development Practices,0.20899671729554117,True,Logistic Regression,Field,test
+W3196972978,Software Development Practices,Software Development Practices,0.2720424158386337,True,Logistic Regression,Field,test
+W3087916273,Software Development Practices,Software Development Practices,0.29588746927092724,True,Logistic Regression,Field,test
+W2953566824,Software Development Practices,Software Development Practices,0.3317038661316667,True,Logistic Regression,Field,test
+W2597695148,Software Development Practices,Data and Information Management,0.20438968658064904,False,Logistic Regression,Field,test
+W2086344001,Software Development Practices,Web and Service Systems,0.1608624566778946,False,Logistic Regression,Field,test
+W1445916941,Software Development Practices,Data and Information Management,0.16794793557546367,False,Logistic Regression,Field,test
+W7164756880,Software Testing and Quality,Software Testing and Quality,0.243650730318295,True,Logistic Regression,Field,test
+W4413192916,Software Testing and Quality,Software Testing and Quality,0.17775155434685944,True,Logistic Regression,Field,test
+W4372049071,Software Testing and Quality,Software Testing and Quality,0.22009095486118352,True,Logistic Regression,Field,test
+W4404389398,Software Testing and Quality,Network Security,0.1583506919897265,False,Logistic Regression,Field,test
+W4296058025,Software Testing and Quality,Software Testing and Quality,0.19715530152108982,True,Logistic Regression,Field,test
+W3212565000,Software Testing and Quality,Authentication and Access Control,0.16927057686965472,False,Logistic Regression,Field,test
+W3045021056,Software Testing and Quality,Software Testing and Quality,0.20876874872296794,True,Logistic Regression,Field,test

@@ -1,0 +1,5 @@
+result,papers
+both correct,47
+both wrong,10
+SciBERT only,7
+Logistic Regression only,4
